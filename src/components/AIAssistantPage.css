@@ -1,0 +1,49 @@
+.ai-assistant-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .ask-button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .ask-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .response-container {
+    margin-top: 20px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .response-container h3 {
+    margin-top: 0;
+  }
+  
+  pre {
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+  }
+  

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AMAS-39/finalproject.git/static/css/main.513dabd6.chunk.css",
+    "main.js": "/AMAS-39/finalproject.git/static/js/main.ddad9109.chunk.js",
+    "main.js.map": "/AMAS-39/finalproject.git/static/js/main.ddad9109.chunk.js.map",
+    "runtime-main.js": "/AMAS-39/finalproject.git/static/js/runtime-main.0074af6e.js",
+    "runtime-main.js.map": "/AMAS-39/finalproject.git/static/js/runtime-main.0074af6e.js.map",
+    "static/css/2.89992670.chunk.css": "/AMAS-39/finalproject.git/static/css/2.89992670.chunk.css",
+    "static/js/2.a08b6f6a.chunk.js": "/AMAS-39/finalproject.git/static/js/2.a08b6f6a.chunk.js",
+    "static/js/2.a08b6f6a.chunk.js.map": "/AMAS-39/finalproject.git/static/js/2.a08b6f6a.chunk.js.map",
+    "index.html": "/AMAS-39/finalproject.git/index.html",
+    "static/css/2.89992670.chunk.css.map": "/AMAS-39/finalproject.git/static/css/2.89992670.chunk.css.map",
+    "static/css/main.513dabd6.chunk.css.map": "/AMAS-39/finalproject.git/static/css/main.513dabd6.chunk.css.map",
+    "static/js/2.a08b6f6a.chunk.js.LICENSE.txt": "/AMAS-39/finalproject.git/static/js/2.a08b6f6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0074af6e.js",
+    "static/css/2.89992670.chunk.css",
+    "static/js/2.a08b6f6a.chunk.js",
+    "static/css/main.513dabd6.chunk.css",
+    "static/js/main.ddad9109.chunk.js"
+  ]
+}
